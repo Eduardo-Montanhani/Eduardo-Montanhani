@@ -1,5 +1,5 @@
 ### My name is Eduardo 
-###  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+###  <img  width="40" pxsrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
           
           
           
