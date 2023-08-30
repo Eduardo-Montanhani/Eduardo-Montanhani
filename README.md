@@ -1,5 +1,5 @@
 ### My name is Eduardo
-##<i class="devicon-php-plain colored"></i>
+
 
 <!--
 **Eduardo-Montanhani/Eduardo-Montanhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
