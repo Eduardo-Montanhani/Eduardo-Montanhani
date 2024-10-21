@@ -6,7 +6,7 @@ Sou desenvolvedor apaixonado por tecnologia e adoro trabalhar em projetos que en
 ## 🚀 Sobre Mim
 
 - 💻 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades de programação.
-- 🎨 Interessado em desenvolvimento Full-Stack, com um gosto especial por front-end e back-end.
+- 🎨 Interessado em desenvolvimento Full-Stack.
 - 📚 Atualmente estou aprimorando meus conhecimentos em **Next.js**, **Laravel**.
 
 ## 🚀 Tecnologias e Ferramentas
