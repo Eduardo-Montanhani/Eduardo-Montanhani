@@ -1,17 +1,18 @@
-# Olá, me chamo Eduardo! 👋
+# Hello, my name is Eduardo! 👋
 
-Bem-vindo ao meu perfil no GitHub!  
-Sou desenvolvedor apaixonado por tecnologia e adoro trabalhar em projetos que envolvem aprendizado constante e desafios interessantes.
+Welcome to my GitHub profile!  
+I'm a developer passionate about technology, always excited to work on projects that involve continuous learning and interesting challenges.
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-- 💻 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades de programação.
-- 🎨 Interessado em desenvolvimento Full-Stack.
-- 📚 Atualmente estou aprimorando meus conhecimentos em **Next.js**, **Laravel**.
+- 💻 Always striving to learn new technologies and improve my programming skills.
+- 🎨 Interested in Full-Stack development.
+- 🎓 Currently in my final year of college, working towards graduation.
+- 📚 Currently enhancing my knowledge in **Next.js** and **Laravel**.
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies and Tools
 
-Aqui estão algumas das linguagens e tecnologias que mais utilizo:
+Here are some of the languages and technologies I use the most:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,12 +20,17 @@ Aqui estão algumas das linguagens e tecnologias que mais utilizo:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## 📈 Minhas Estatísticas
+## 📈 My Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Montanhani&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Montanhani&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 📫 Onde me encontrar
+## 📫 Where to Find Me
+
 - [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardom.exe/)
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+- 📧 Email: eduardo@exemplo.com
+
+Feel free to reach out if you like my projects or want to collaborate! 😊
