@@ -30,7 +30,4 @@ Here are some of the languages and technologies I use the most:
 ## 📫 Where to Find Me
 
 - [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardom.exe/)
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-- 📧 Email: eduardo@exemplo.com
 
-Feel free to reach out if you like my projects or want to collaborate! 😊
