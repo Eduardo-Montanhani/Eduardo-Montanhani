@@ -27,4 +27,4 @@ Aqui estão algumas das linguagens e tecnologias que mais utilizo:
 </div>
 
 ## 📫 Onde me encontrar
-- ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [Instagram](https://www.instagram.com/eduardom.exe/)
+- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardom.exe/)
