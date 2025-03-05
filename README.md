@@ -2,8 +2,7 @@
 
 Welcome to my GitHub profile!  
 I'm a developer passionate about technology, always excited to work on projects that involve continuous learning and interesting challenges.
-<img src="https://i.pinimg.com/originals/35/16/86/351686db584ac03f9d3377a959eee145.gif
-"/>
+<img src="https://i.pinimg.com/originals/35/16/86/351686db584ac03f9d3377a959eee145.gif" alt="Pixel Art" align="right" width="200">
 ## 🚀 About Me
 
 - 💻 Always striving to learn new technologies and improve my programming skills.
