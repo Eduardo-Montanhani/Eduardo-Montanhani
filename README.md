@@ -9,7 +9,7 @@ I'm a developer passionate about technology, always excited to work on projects 
 - 🎨 Interested in Full-Stack development.
 - 🎓 Currently in my final year of college, working towards graduation.
 - 📚 Currently enhancing my knowledge in **Next.js** and **Laravel**.
-
+<img src="https://pa1.aminoapps.com/6771/b26587231f40708f2b2b7c19d46f50d72e4bcef7_00.gif" alt="Pixel Art" align="right" width="200">
 ## 🚀 Technologies and Tools
 
 Here are some of the languages and technologies I use the most:
