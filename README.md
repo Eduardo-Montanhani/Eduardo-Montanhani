@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 I'm a developer passionate about technology, always excited to work on projects that involve continuous learning and interesting challenges.
-<img src="https://w7.pngwing.com/pngs/814/959/png-transparent-pokemon-pikachu-pokemon-go-pokemon-omega-ruby-and-alpha-sapphire-pikachu-thumbnail.png" alt="Pixel Art" align="right" width="200">
+<img src="https://i.pinimg.com/originals/9f/1d/58/9f1d582d5a8045fec25f03530d73dd24.gif" alt="Pixel Art" align="right" width="200">
 ## 🚀 About Me
 
 - 💻 Always striving to learn new technologies and improve my programming skills.
