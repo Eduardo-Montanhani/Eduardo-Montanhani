@@ -39,7 +39,7 @@ I am a developer passionate about building comprehensive digital solutions. Curr
 
 ### 📫 Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardom.mtni/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo.mtni/)
 
 ---
 
